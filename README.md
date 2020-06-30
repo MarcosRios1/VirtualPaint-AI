@@ -6,4 +6,4 @@ colorPicker.py is just a tool to find the optimal hue, saturation, and value par
 Everything can be run from main.py. Using the OpenCV library, the program simply detects the edges of a marker shaped object for orange, green, or pink. Attaches a point to the end of your 
 your marker and allows you to draw onto your live webcam feed. Functionality for starting/stopping drawing, undo, and saving changes will be added.
 
- <p style="text-align: center;"><img src="https://i.imgur.com/ljfvQ9q.png" alias="Preview" width="500"/></p>
+ <p align="center"><img src="https://i.imgur.com/ljfvQ9q.png" alias="Preview" width="500"/></p>
